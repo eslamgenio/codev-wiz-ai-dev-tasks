@@ -1,0 +1,22 @@
+# High-level manifest for the hybrid workflow
+project: your-project-name
+owner: your-name
+llm_tools:
+  - chatgpt
+  - claude
+  - cursor
+methodology:
+  hybrid: ai-dev-tasks + codev (SP(IDE)R)
+conventions:
+  branch_per_feature: true
+  commit_prefixes:
+    specify: "spec:"
+    plan: "plan:"
+    implement: "impl:"
+    defend: "test:"
+    evaluate: "eval:"
+    review: "review:"
+rules_of_thumb:
+  - Keep tasks atomic and testable.
+  - Record decisions in the Defend section.
+  - Update lessons learned after each feature.
