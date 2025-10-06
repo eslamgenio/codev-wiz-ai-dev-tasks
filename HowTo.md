@@ -12,7 +12,7 @@ Wait until Claude creates the full repo (it will output all files/folders).
 
 ## 🔹 Step 2 — Apply Codev's SP(IDE)R protocol
 
-Apply Codev's SP(IDE)R protocol on top of combined framework
+Apply Codev's SP(IDE)R protocol on top of combined framework 
 
 **PROMPT:** (Follow #file:2-apply_SPIDER.md)
 
