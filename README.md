@@ -1,8 +1,8 @@
 # AI-Dev-Tasks × Codev — Hybrid Template
 
 This repository gives you the **best of both worlds**:
-- **ai-dev-tasks**: lightweight, prompt-first task scaffolding
-- **codev (SP(IDE)R)**: context-first methodology with explicit phases
+- **ai-dev-tasks**: lightweight, prompt-first task scaffolding (https://github.com/snarktank/ai-dev-tasks)
+- **codev (SP(IDE)R)**: context-first methodology with explicit phases (https://github.com/ansari-project/codev)
 
 Use this template to kickstart AI-assisted development with **clarity, traceability, and speed**.
 
