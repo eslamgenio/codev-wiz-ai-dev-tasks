@@ -4,7 +4,7 @@
 
 Create and configure the full ai-dev-tasks × Codev hybrid repository
 
-**PROMPT:** (Follow #1-Setup.md)
+**PROMPT:** (Follow #file:1-Setup.md)
 
 Wait until Claude creates the full repo (it will output all files/folders).
 
@@ -14,7 +14,7 @@ Wait until Claude creates the full repo (it will output all files/folders).
 
 Apply Codev's SP(IDE)R protocol on top of combined framework
 
-**PROMPT:** (Follow #2-apply_SPIDER.md)
+**PROMPT:** (Follow #file:2-apply_SPIDER.md)
 
 ---
 
@@ -22,10 +22,10 @@ Apply Codev's SP(IDE)R protocol on top of combined framework
 
 Now follow this PowerShell guide to verify everything works, create a new feature, and demonstrate a full Specify → Plan → Implement → Defend → Evaluate → Review cycle
 
-**PROMPT:** (Follow #3-Verify.md)
+**PROMPT:** (Follow #file:3-Verify.md)
 
 ---
 
 ## 🔹 Step 4 — Add a new feature to the hybrid Codev repo
 
-**PROMPT:** (Follow #4-Add_feature.md to implement this feature #0-FeatureDescription.md)
+**PROMPT:** (Follow #file:4-Add_feature.md to implement this feature #file:0-FeatureDescription.md)
